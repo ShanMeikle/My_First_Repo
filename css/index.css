@@ -1,0 +1,54 @@
+nav {
+    background-color: grey;
+    padding: 5px;
+}
+
+.navItem {
+    display: inline-block;
+    margin: 0 auto;
+    background-color: white;
+    padding: 15px;
+    width: 150px;
+    text-align: center;
+}
+
+.leftCol {
+    float: left;
+    padding-top: 50px;
+    border: 1px solid black;
+}
+
+.profileWrapper {
+    border-style: solid black;
+    border-bottom: 1px solid black;
+}
+
+.profileImg {
+    text-align: center;
+}
+
+h4 {
+    text-align: center;
+    color: purple;
+    font-size: 30px bold;
+}
+
+.rightCol {
+    float: right;
+    padding-top: 40px;    
+}
+
+.upperRightCol {
+    border: 1px solid black;
+}
+
+header {
+    text-align: center;
+    color: purple;
+    font-style: italic;
+}
+
+.img {
+    display: inline-block;
+}
+
